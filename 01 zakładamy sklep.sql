@@ -1,0 +1,1 @@
+create user sklep IDENTIFIED by 123;
