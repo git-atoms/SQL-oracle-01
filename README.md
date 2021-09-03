@@ -1,2 +1,3 @@
 # SQL-oracle-01
-Oracle training
+Oracle training and project documentation.
+
