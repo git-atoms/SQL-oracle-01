@@ -16,11 +16,11 @@ values(4,'Karol','Krawczyk',82010112345,'M','82/01/01',3000);
 
 insert into pracownicy (
 id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
-values(5,'','',,'','',);
+values(5,'Joanna','Bak',90121212345,'K','90/12/12',2700);
 
 insert into pracownicy (
 id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
-values(6,'','',,'','',);
+values(6,'Ste','',,'','',);
 
 insert into pracownicy (
 id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
