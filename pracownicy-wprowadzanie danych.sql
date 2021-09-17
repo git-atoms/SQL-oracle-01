@@ -10,3 +10,30 @@ insert into pracownicy (
 id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
 values(3,'Magdalena','Dzwonkowska',92081612345,'K','92/08/16',5000);
 
+insert into pracownicy (
+id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
+values(4,'Karol','Krawczyk',82010112345,'M','82/01/01',3000);
+
+insert into pracownicy (
+id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
+values(5,'','',,'','',);
+
+insert into pracownicy (
+id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
+values(6,'','',,'','',);
+
+insert into pracownicy (
+id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
+values(7,'','',,'','',);
+
+insert into pracownicy (
+id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
+values(8,'','',,'','',);
+
+insert into pracownicy (
+id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
+values(9,'','',,'','',);
+
+insert into pracownicy (
+id, imie, nazwisko, pesel, plec, data_urodzenia,pensja)
+values(10,'','',,'','',);
