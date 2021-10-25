@@ -9,4 +9,4 @@ alter table pracownicy
 modify pesel number(11) not null;
 
 alter table pracownicy
-modify id not null;
+modify id not null; 
